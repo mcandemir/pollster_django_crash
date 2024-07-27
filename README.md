@@ -21,7 +21,7 @@ https://gist.github.com/bradtraversy/06538da5924882b2cf30fa6310d505b1
 
 ### Migrating to Bootstrap 5 from Bootstrap 4:
 
-If you use the updated Bootstrap cdn and don't see any votes number appearing on the results screen, then you might need to apply this minor update:
+If you use Bootstrap5 cdn and don't see any votes number appearing on the results screen, then you might need to apply this minor update:
 
 Change
 
